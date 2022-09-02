@@ -1,2 +1,2 @@
 #eddiehome
-trojan://b03ef3ba-dc0b-4f69-aeea-76d337e46f99@trade1.bitznet.cloud:32011/?peer=cert.bitbyte.one&tfo=1#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6NjY5YmFjOWMtMTUyMi0zODU3LTkxZTAtZTQxYjQzYWE4NWQ3QGVhZ2xlMDEubGlua3pvb25lcy54eXo6MzA1MDE?remarks=%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%7C%201&tls=1&peer=us01.linknodes.xyz&alterId=0
