@@ -1,3 +1,4 @@
 #eddiehome
 trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@scus3.ddns-pop.cyou:24567/?peer=sdhawuyfkjuwx.vzwzasc.cn#%E7%BE%8E%E5%9B%BD03
 vmess://YXV0bzoyNmUyMTlmMi01YzJhLTM1NmMtOTc2Ny05ZmQ2ODFjYzAxMzRAbHYyc25kd2lvYWJpYWFzdy5oanNweXRvLmNuOjMzMzM1?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1&obfsParam=sgkhowaxawdx.vzwzasc.cn&path=/tnt-awsxjp1&obfs=websocket&tls=1&alterId=0
+ssr://Z2UxLmFtYW15YS5saXZlOjE4ODEzOm9yaWdpbjpyYzQtbWQ1Omh0dHBfc2ltcGxlOmJERTFaMkZ6ZWpac05tRS8_cmVtYXJrcz01YjYzNVp1OSZwcm90b3BhcmFtPSZvYmZzcGFyYW09Wkc5M2JteHZZV1F1ZDJsdVpHOTNjM1Z3WkdGMFpTNWpiMjA
