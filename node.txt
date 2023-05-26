@@ -1,2 +1,4 @@
 #eddiehome
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@scus3.ddns-pop.cyou:24567/?peer=sdhawuyfkjuwx.vzwzasc.cn#%E7%BE%8E%E5%9B%BD03
+trojan://7aba081a-81e0-432f-b6a9-6e4ed7b95fed@jp2.lxjc.app:443?peer=16-163-218-240.nhost.00cdn.com#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%ACAZ2
+trojan://7aba081a-81e0-432f-b6a9-6e4ed7b95fed@163.123.192.36:443?peer=16-163-218-240.nhost.00cdn.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD4
+trojan://7aba081a-81e0-432f-b6a9-6e4ed7b95fed@163.123.192.36:443?peer=16-163-218-240.nhost.00cdn.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD4
