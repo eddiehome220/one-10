@@ -1,4 +1,5 @@
 #eddiehome
+vmess://Y2hhY2hhMjAtcG9seTEzMDU6NWJkYTBmZDEtNDYzMC0zY2M1LWJhYjQtMjYwZDlhMGIxZDFjQHZpcDMubml1bml1cHJlbWl1bS54eXo6MTY5Mjg?remarks=B%E7%BE%8E%E5%9B%BD&obfsParam=193.25.215.160&path=/v2ray&obfs=websocket
 trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@as.steamdownload.top:36611?allowInsecure=1&peer=datahk.steamdownload.top&tfo=1#%E9%A6%99%E6%B8%AF%2001
 trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@sa.steamdownload.top:36631?peer=datajp.steamdownload.top&tfo=1#%E6%97%A5%E6%9C%AC%2001
 trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@as.steamdownload.top:36641?peer=datasg.steamdownload.top&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
