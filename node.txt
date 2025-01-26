@@ -5,3 +5,6 @@ trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@sa.steamdownload.top:36631?peer=da
 trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@as.steamdownload.top:36641?peer=datasg.steamdownload.top&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
 trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@sa.steamdownload.top:36651?peer=dataus.steamdownload.top&tfo=1#%E7%BE%8E%E5%9B%BD%2001
 trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@as.steamdownload.top:36715?peer=datain.steamdownload.top&tfo=1#%E5%8D%B0%E5%BA%A6%2001
+hysteria2://1d28353f-5410-4151-922c-a4dbf46cadcc@ae1.xiaoliyu.us:2056?peer=ae1.xiaoliyu.us&insecure=1&obfs=none&fastopen=1#%5BHy2%5D%E8%BF%AA%E6%8B%9C01
+hysteria2://1d28353f-5410-4151-922c-a4dbf46cadcc@uk2.xiaoliyu.us:2056?peer=uk2.xiaoliyu.us&insecure=1&obfs=none&fastopen=1#%5BHy2%5D%E8%8B%B1%E5%9B%BD02
+hysteria2://1d28353f-5410-4151-922c-a4dbf46cadcc@hk1.xiaoliyu.us:2052?peer=hk1.xiaoliyu.us&insecure=1&obfs=none&fastopen=1#%5BHy2%5D%E9%A6%99%E6%B8%AF01
