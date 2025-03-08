@@ -1,10 +1,4 @@
 #eddiehome
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NWJkYTBmZDEtNDYzMC0zY2M1LWJhYjQtMjYwZDlhMGIxZDFjQHZpcDMubml1bml1cHJlbWl1bS54eXo6MTY5Mjg?remarks=B%E7%BE%8E%E5%9B%BD&obfsParam=193.25.215.160&path=/v2ray&obfs=websocket
-trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@as.steamdownload.top:36611?allowInsecure=1&peer=datahk.steamdownload.top&tfo=1#%E9%A6%99%E6%B8%AF%2001
-trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@sa.steamdownload.top:36631?peer=datajp.steamdownload.top&tfo=1#%E6%97%A5%E6%9C%AC%2001
-trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@as.steamdownload.top:36641?peer=datasg.steamdownload.top&tfo=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
-trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@sa.steamdownload.top:36651?peer=dataus.steamdownload.top&tfo=1#%E7%BE%8E%E5%9B%BD%2001
-trojan://b0fb9f32-4e6a-4ce9-ab67-b9ba18d9e7b2@as.steamdownload.top:36715?peer=datain.steamdownload.top&tfo=1#%E5%8D%B0%E5%BA%A6%2001
-hysteria2://1d28353f-5410-4151-922c-a4dbf46cadcc@ae1.xiaoliyu.us:2056?peer=ae1.xiaoliyu.us&insecure=1&obfs=none&fastopen=1#%5BHy2%5D%E8%BF%AA%E6%8B%9C01
-hysteria2://1d28353f-5410-4151-922c-a4dbf46cadcc@uk2.xiaoliyu.us:2056?peer=uk2.xiaoliyu.us&insecure=1&obfs=none&fastopen=1#%5BHy2%5D%E8%8B%B1%E5%9B%BD02
-hysteria2://1d28353f-5410-4151-922c-a4dbf46cadcc@hk1.xiaoliyu.us:2052?peer=hk1.xiaoliyu.us&insecure=1&obfs=none&fastopen=1#%5BHy2%5D%E9%A6%99%E6%B8%AF01
+trojan://71603f7a-203c-4fce-a114-3402629af231@cn2.cdn.xfltd-cdn.top:12023?allowInsecure=1&peer=cdn.alibaba.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003
+trojan://71603f7a-203c-4fce-a114-3402629af231@cn2.cdn.xfltd-cdn.top:12053?allowInsecure=1&peer=cdn.alibaba.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%2003
+ss://YWVzLTEyOC1nY206ODljOGYwOWItZGQ5Mi00OGM4LWJkOWMtY2FlNjYzZjJmZWU4QGNlc3UtbW5reG12a2NiYWE0LnYyLnByb2QuaG9zdHMuZ2Vla3NwZWVkLmxhdDoxMTAxMg#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2002
